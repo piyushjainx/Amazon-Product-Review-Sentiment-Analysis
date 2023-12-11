@@ -12,7 +12,7 @@ The dataset used in this project is a collection of Amazon product reviews, whic
 
 3. **Distribution of Ratings**: The distribution of ratings given by customers is explored and provides an overview of how customers generally rate the products.
 
-4. **Sentiment Analysis**: To delve deeper into the customers' sentiments, sentiment analysis on the review text is performed. VADER (Valence Aware Dictionary and Sentiment Reasoner) sentiment analysis tool is used to calculate positive, negative, and neutral sentiment scores for each review.
+4. **Sentiment Analysis**: To delve deeper into the customers' sentiments, sentiment analysis on the review text is performed. Sentiment Intensity Analyser (SIA) sentiment analysis tool is used to calculate positive, negative, and neutral sentiment scores for each review.
 
 5. **Analysis of a Random Product**: To understand the sentiment of a specific product, a product is randomly selected from the dataset. The sum of positive, negative, and neutral sentiment scores for this product is calculated to determine the overall sentiment based on the highest score.
 
